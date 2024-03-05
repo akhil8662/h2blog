@@ -17,7 +17,7 @@ border: solid 2px white;
 }
 .fa-html5 {
   color: hsl(13, 77%, 52%);
-  font-size: 200PX ;
+  font-size: 150PX ;
 border: solid 2px white;
 border-radius: 50px;
 padding: 10px;
@@ -26,7 +26,7 @@ padding: 10px;
 .fa-css3 {
   color:#264de4 ;
 border: solid 2px white;
-  font-size: 200PX;
+  font-size: 150PX;
 border-radius: 50px;
 padding: 10px;
 }
